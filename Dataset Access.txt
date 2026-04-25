@@ -1,0 +1,10 @@
+Dataset link: https://www.kaggle.com/datasets/liucong12601/stanford-online-products-dataset
+
+The detailed operation process has already been explained in the README. txt file.
+
+1. Sort the dataset according to the format of 'create_sop_db.py' and 'create_sop_gnd.py'
+
+2. Run 'create_sop_db.py' and 'create_sop_gnd.py' in sequence, and the dataset will be automatically processed.
+
+
+Your images should be in this location: data/train/sop/ims
